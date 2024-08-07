@@ -24,3 +24,13 @@ Move: Start moving the simulation.
 Stop: Stop the simulation.
 Back: Go back to the introduction screen.
 Quit: Exit the application.
+
+Contributing
+Contributions are welcome! If you have any improvements or bug fixes, please submit a pull request or open an issue to discuss changes.
+
+
+Acknowledgements
+OpenGL
+GLUT
+FreeGLUT
+Codeblocks
