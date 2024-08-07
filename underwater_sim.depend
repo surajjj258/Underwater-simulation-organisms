@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1722929161 source:c:\users\suraj\desktop\cgp01\underwater_sim\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<freeglut.h>
+	<math.h>
+
