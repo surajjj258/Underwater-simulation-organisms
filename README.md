@@ -13,11 +13,11 @@ The **Underwater Simulation of Organisms** project is a graphical simulation sho
 ## Installation
 
 To run this project, you will need to have OpenGL and GLUT, freeglut libraries and codeblocks installed.
-Usage:
 
-'p': Start the simulation.
-'i': Increase the speed of the simulation.
-'d': Decrease the speed of the simulation.
+### Usage:
+-'p': Start the simulation.
+-'i': Increase the speed of the simulation.
+-'d': Decrease the speed of the simulation.
 
 Menu Options:
 Move: Start moving the simulation.
