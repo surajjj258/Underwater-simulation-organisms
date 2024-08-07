@@ -15,22 +15,22 @@ The **Underwater Simulation of Organisms** project is a graphical simulation sho
 To run this project, you will need to have OpenGL and GLUT, freeglut libraries and codeblocks installed.
 
 ### Usage:
--'p': Start the simulation.
--'i': Increase the speed of the simulation.
--'d': Decrease the speed of the simulation.
+- 'p': Start the simulation.
+- 'i': Increase the speed of the simulation.
+- 'd': Decrease the speed of the simulation.
 
-Menu Options:
-Move: Start moving the simulation.
-Stop: Stop the simulation.
-Back: Go back to the introduction screen.
-Quit: Exit the application.
+### Menu Options:
+- Move: Start moving the simulation.
+- Stop: Stop the simulation.
+- Back: Go back to the introduction screen.
+- Quit: Exit the application.
 
-Contributing
+## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, please submit a pull request or open an issue to discuss changes.
 
 
-Acknowledgements
-OpenGL
-GLUT
-FreeGLUT
-Codeblocks
+## Acknowledgements
+- OpenGL
+- GLUT
+- FreeGLUT
+- Codeblocks
