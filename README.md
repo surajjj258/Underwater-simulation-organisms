@@ -33,4 +33,4 @@ Contributions are welcome! If you have any improvements or bug fixes, please sub
 - OpenGL
 - GLUT
 - FreeGLUT
-- Codeblocks
+- Codeblocks (Recommended 20.03)
